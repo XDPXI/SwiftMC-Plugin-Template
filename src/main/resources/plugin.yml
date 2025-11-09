@@ -1,0 +1,5 @@
+name: YourPlugin
+version: 1.0.0
+main: com.yourname.yourplugin.YourPlugin
+author: Your Name
+description: A description of your plugin

@@ -7,13 +7,12 @@ version = '1.0.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
-    flatDir { dirs 'libs' }
     maven { url 'https://jitpack.io' }
 }
 
 dependencies {
-    compileOnly 'net.minestom:minestom:2025.10.31-1.21.10'
+    compileOnly 'net.minestom:minestom:2026.06.20-26.1.2'
     compileOnly 'org.apache.logging.log4j:log4j-core:2.25.2'
     compileOnly 'org.apache.logging.log4j:log4j-slf4j2-impl:2.25.2'
-    compileOnly 'dev.xdpxi:SwiftMC:1.21.10-7'
+    compileOnly "dev.xdpxi:swiftmc:26.1.2-3"
 }

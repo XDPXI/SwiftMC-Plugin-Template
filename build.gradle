@@ -12,8 +12,8 @@ repositories {
 }
 
 dependencies {
-    compileOnly 'net.minestom:minestom:2025.10.31-1.21.10'
+    compileOnly 'net.minestom:minestom:2026.02.09-1.21.11'
     compileOnly 'org.apache.logging.log4j:log4j-core:2.25.2'
     compileOnly 'org.apache.logging.log4j:log4j-slf4j2-impl:2.25.2'
-    compileOnly 'dev.xdpxi:SwiftMC:1.21.10-7'
+    compileOnly 'dev.xdpxi:SwiftMC:1.21.11-4'
 }
